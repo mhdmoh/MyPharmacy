@@ -56,7 +56,6 @@ MyPharmacy is an application that helps pharmacies managing their branches and e
 <p float="left">                                                                                        
 <img src="https://user-images.githubusercontent.com/80918411/131258820-7802a52f-87a9-49ac-a99b-c4fd3f8950f2.gif" width="32%">
 <img src="https://user-images.githubusercontent.com/80918411/131258736-e41f4ecb-a9fd-41f7-90eb-c7f2a728efb1.jpg" width="32%">
-<img src="https://user-images.githubusercontent.com/80918411/131258738-506f452c-eaa3-4d65-8899-b7cc298fa8a1.jpg" width="32%">
 </p>
 
 ### Sales
@@ -65,6 +64,7 @@ MyPharmacy is an application that helps pharmacies managing their branches and e
 <img src="https://user-images.githubusercontent.com/80918411/131258926-fad9af3d-6b06-4adf-8b5c-2fbd3935c633.jpg" width="32%">
 <img src="https://user-images.githubusercontent.com/80918411/131258925-5c891e8f-6771-49cf-8257-ebf685fc4495.jpg" width="32%">
 </p>
+
 #### Setting the customer or adding a new one
 <p float="left">                                                                                        
 <img src="https://user-images.githubusercontent.com/80918411/131258949-b76f6603-5e0f-44f2-89c9-982f190a9bb7.jpg" width="32%">
