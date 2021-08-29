@@ -45,4 +45,10 @@ MyPharmacy is an application that helps pharmacies managing their branches and e
 
 ## Sreenshot :
 ### Authentication
-
+                                                                                                         
+<p float="left">                                                                                                       
+<img src="https://user-images.githubusercontent.com/80918411/131254998-2aa23d01-a964-4e73-bda2-df2f5660485c.jpg" width="32%">
+<img src="https://user-images.githubusercontent.com/80918411/131255022-069b3f2c-432b-46c4-b0a8-5f9ef99e0c1a.jpg" width="32%">
+<img src="https://user-images.githubusercontent.com/80918411/131255029-03c07ce5-155a-494f-ad3a-6212fed97779.jpg" width="32%">
+<img src="https://user-images.githubusercontent.com/80918411/131255140-cd80241d-6009-452f-8493-8b8d2f54f64e.gif" width="32%">
+</p>
