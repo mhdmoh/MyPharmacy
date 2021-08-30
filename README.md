@@ -62,7 +62,7 @@ MyPharmacy is an application that helps pharmacies managing their branches and e
 </p>
 
 ### Sales
-#### Adding products to the cart
+### Adding products to the cart
 1. you can add any amount of items to the selected list 
 2. if a product is expired you will not be able to add it
 3. you will get a notification if the quantity of a product is less than the entered lowest amountto remind you to buyit again
@@ -76,7 +76,7 @@ MyPharmacy is an application that helps pharmacies managing their branches and e
 <img src="https://user-images.githubusercontent.com/80918411/131289324-abee7a34-f358-4a30-aba6-2ddaf5fd8742.jpg" width="20%">
 </p>
 
-#### Returning products :
+### Returning products :
 1. You can scan a receipt to return some of its products
 2. You can see the return information along with the old products and what you returned from them
 <p float="left">                                                                                        
@@ -85,7 +85,7 @@ MyPharmacy is an application that helps pharmacies managing their branches and e
 </p>
 
 
-#### Setting the customer or adding a new one
+### Setting the customer or adding a new one
 1. when selling the products you can either assign the receipt to an existing customer or create a new one 
 2. the customer can pay the entire amount or pay some of it and continue paying later
 <p float="left">                                                                                        
@@ -141,4 +141,26 @@ MyPharmacy is an application that helps pharmacies managing their branches and e
 <img src="https://user-images.githubusercontent.com/80918411/131356220-386f1622-b106-4782-91ef-40271d022f94.jpg" width="20%">
 <img src="https://user-images.githubusercontent.com/80918411/131356223-e1b3736a-1355-4045-86f1-8215100d9664.jpg" width="20%">
 <img src="https://user-images.githubusercontent.com/80918411/131356228-5c1d1b67-2250-4696-b663-d9f48ecba5de.jpg" width="20%">
+</p>
+
+### Manage Expired Products :
+1. You can see all expired products in the pharmacy
+2. You can dispose of the products
+3. You can return the products to the vendor and the returned amount will be removed form the invoice
+<p float="left">                                                                                        
+<img src="https://user-images.githubusercontent.com/80918411/131358882-9563eac4-f0b4-494c-96ce-f5ee63d64178.jpg" width="20%">
+<img src="https://user-images.githubusercontent.com/80918411/131358891-ce23bed6-6a14-409c-8996-b66432ef8918.jpg" width="20%">
+</p>
+
+### Reports :
+1. Detailed Product report
+   - See a report of the product 
+   - See all the branches that sell this product
+
+2. Detailed Sales report
+3. Vendors Report
+<p float="left">                                                                                        
+<img src="https://user-images.githubusercontent.com/80918411/131358894-173e2d43-6c99-41f4-9b68-9cf10853aa54.jpg" width="20%">
+<img src="https://user-images.githubusercontent.com/80918411/131358896-6108c420-9828-4f4f-aecf-07e1c3a8e7c0.jpg" width="20%">
+<img src="https://user-images.githubusercontent.com/80918411/131358900-6196b0ee-084a-4e57-9ab5-68716dca8a51.jpg" width="20%">
 </p>
