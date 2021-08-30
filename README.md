@@ -92,3 +92,15 @@ MyPharmacy is an application that helps pharmacies managing their branches and e
 <img src="https://user-images.githubusercontent.com/80918411/131259743-f69f9ad7-d634-4f93-bf7f-9fa4f00dd396.jpg" width="20%">
 </p>
 
+### Employee Information
+1. You can add a new employee and assign him/her to a branch and give him/her the premission you want
+2. You can swipe right to edit the employee information of swipe left to deactivate the employee
+3. You can filter the pharmacy employees
+4. Click on an employee to see his/her information and the receipts they did
+<p float="left">                                                                                        
+<img src="https://user-images.githubusercontent.com/80918411/131296103-a2bc1fd9-95f2-475d-8341-9e67d6a726ae.jpg" width="20%">
+<img src="https://user-images.githubusercontent.com/80918411/131296082-f8c93065-8200-4e25-a681-57d3353937c7.jpg" width="20%">
+<img src="https://user-images.githubusercontent.com/80918411/131296086-59cb07aa-8fe2-4ef0-a9b5-1d7ba83f96b1.jpg" width="20%">
+<img src="https://user-images.githubusercontent.com/80918411/131296092-b6304bcd-39e2-40a7-9c87-46da0685d28e.jpg" width="20%">
+<img src="https://user-images.githubusercontent.com/80918411/131296095-cb92547f-f7f0-4329-9578-f807de35929a.jpg" width="20%">
+</p>
