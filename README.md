@@ -46,10 +46,10 @@ MyPharmacy is an application that helps pharmacies managing their branches and e
 ## Sreenshot :
 ### Authentication
 <p float="left">                                                                                        
-<img src="https://user-images.githubusercontent.com/80918411/131255140-cd80241d-6009-452f-8493-8b8d2f54f64e.gif" width="25%">
-<img src="https://user-images.githubusercontent.com/80918411/131254998-2aa23d01-a964-4e73-bda2-df2f5660485c.jpg" width="25%">
-<img src="https://user-images.githubusercontent.com/80918411/131255022-069b3f2c-432b-46c4-b0a8-5f9ef99e0c1a.jpg" width="25%">
-<img src="https://user-images.githubusercontent.com/80918411/131255029-03c07ce5-155a-494f-ad3a-6212fed97779.jpg" width="25%">
+<img src="https://user-images.githubusercontent.com/80918411/131255140-cd80241d-6009-452f-8493-8b8d2f54f64e.gif" width="20%">
+<img src="https://user-images.githubusercontent.com/80918411/131254998-2aa23d01-a964-4e73-bda2-df2f5660485c.jpg" width="20%">
+<img src="https://user-images.githubusercontent.com/80918411/131255022-069b3f2c-432b-46c4-b0a8-5f9ef99e0c1a.jpg" width="20%">
+<img src="https://user-images.githubusercontent.com/80918411/131255029-03c07ce5-155a-494f-ad3a-6212fed97779.jpg" width="20%">
 </p>
 	
 ### Inventory 
@@ -57,8 +57,8 @@ MyPharmacy is an application that helps pharmacies managing their branches and e
 2. you can click on a product to see a dialog showing the product information
 3. you can filter your inventory by a huge amount of variables
 <p float="left">                                                                                        
-<img src="https://user-images.githubusercontent.com/80918411/131258820-7802a52f-87a9-49ac-a99b-c4fd3f8950f2.gif" width="25%">
-<img src="https://user-images.githubusercontent.com/80918411/131258736-e41f4ecb-a9fd-41f7-90eb-c7f2a728efb1.jpg" width="25%">
+<img src="https://user-images.githubusercontent.com/80918411/131258820-7802a52f-87a9-49ac-a99b-c4fd3f8950f2.gif" width="20%">
+<img src="https://user-images.githubusercontent.com/80918411/131258736-e41f4ecb-a9fd-41f7-90eb-c7f2a728efb1.jpg" width="20%">
 </p>
 
 ### Sales
@@ -79,16 +79,16 @@ MyPharmacy is an application that helps pharmacies managing their branches and e
 1. when selling the products you can either assign the receipt to an existing customer or create a new one 
 2. the customer can pay the entire amount or pay some of it and continue paying later
 <p float="left">                                                                                        
-<img src="https://user-images.githubusercontent.com/80918411/131258949-b76f6603-5e0f-44f2-89c9-982f190a9bb7.jpg" width="25%">
-<img src="https://user-images.githubusercontent.com/80918411/131258950-786c80b0-78ba-4436-b6b0-ead337a9d238.jpg" width="25%">
-<img src="https://user-images.githubusercontent.com/80918411/131258947-f0344922-6e04-400c-bc86-fdaeeda689bc.jpg" width="25%">
+<img src="https://user-images.githubusercontent.com/80918411/131258949-b76f6603-5e0f-44f2-89c9-982f190a9bb7.jpg" width="20%">
+<img src="https://user-images.githubusercontent.com/80918411/131258950-786c80b0-78ba-4436-b6b0-ead337a9d238.jpg" width="20%">
+<img src="https://user-images.githubusercontent.com/80918411/131258947-f0344922-6e04-400c-bc86-fdaeeda689bc.jpg" width="20%">
 </p>
 
 ### Customers Informations:
 <p float="left">                                                                                        
-<img src="https://user-images.githubusercontent.com/80918411/131259731-5fb90c1f-4624-40b7-909a-40b112ee2245.jpg" width="25%">
-<img src="https://user-images.githubusercontent.com/80918411/131259737-ffef649d-f7dc-4987-8a0e-62e15f864f59.jpg" width="25%">
-<img src="https://user-images.githubusercontent.com/80918411/131259729-1bf702dc-6f9f-441b-b923-b2ff2e200113.jpg" width="25%">
-<img src="https://user-images.githubusercontent.com/80918411/131259743-f69f9ad7-d634-4f93-bf7f-9fa4f00dd396.jpg" width="25%">
+<img src="https://user-images.githubusercontent.com/80918411/131259731-5fb90c1f-4624-40b7-909a-40b112ee2245.jpg" width="20%">
+<img src="https://user-images.githubusercontent.com/80918411/131259737-ffef649d-f7dc-4987-8a0e-62e15f864f59.jpg" width="20%">
+<img src="https://user-images.githubusercontent.com/80918411/131259729-1bf702dc-6f9f-441b-b923-b2ff2e200113.jpg" width="20%">
+<img src="https://user-images.githubusercontent.com/80918411/131259743-f69f9ad7-d634-4f93-bf7f-9fa4f00dd396.jpg" width="20%">
 </p>
 
