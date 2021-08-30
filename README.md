@@ -71,6 +71,7 @@ MyPharmacy is an application that helps pharmacies managing their branches and e
 <p float="left">                                                                                        
 <img src="https://user-images.githubusercontent.com/80918411/131258926-fad9af3d-6b06-4adf-8b5c-2fbd3935c633.jpg" width="20%">
 <img src="https://user-images.githubusercontent.com/80918411/131258925-5c891e8f-6771-49cf-8257-ebf685fc4495.jpg" width="20%">
+<img src="https://user-images.githubusercontent.com/80918411/131355475-eb5e9ce8-b8fa-44ff-bb71-d0b4dc6c74ce.jpg" width="20%">
 <img src="https://user-images.githubusercontent.com/80918411/131289339-b9d8c366-5919-46c8-95d1-2d8218dbe5a2.png" width="20%">
 <img src="https://user-images.githubusercontent.com/80918411/131289324-abee7a34-f358-4a30-aba6-2ddaf5fd8742.jpg" width="20%">
 </p>
@@ -115,4 +116,20 @@ MyPharmacy is an application that helps pharmacies managing their branches and e
 <img src="https://user-images.githubusercontent.com/80918411/131314033-bb4978fe-b8a6-4278-8575-eb394abed35c.jpg" width="20%">
 <img src="https://user-images.githubusercontent.com/80918411/131314038-7df96c55-4e8e-42d7-a9bd-742239e6412d.jpg" width="20%">
 <img src="https://user-images.githubusercontent.com/80918411/131314030-ed663b98-e3f7-44b5-b320-8a61d7eb0c22.jpg" width="20%">
+</p>
+
+### Vendors Information :
+1. You can see all the vendors how have contracts with the pharmacy
+2. You can add vendors
+3. You can swipe right to edit the vendor information of swipe left to deactivate him/her
+4. You can receive products from the vendor
+5. You can click on a vendor to see his/her information along with the invoices they did
+6. You can click on an invoice to see its information and its products
+<p float="left">                                                                                        
+<img src="https://user-images.githubusercontent.com/80918411/131356202-04ed2345-75ea-4c50-bcba-2211f1a05483.jpg" width="20%">
+<img src="https://user-images.githubusercontent.com/80918411/131356207-45f87fd7-1fcf-48c4-a361-5260e6b21597.jpg" width="20%">
+<img src="https://user-images.githubusercontent.com/80918411/131356213-2eb43a6d-b677-4bbb-8e4e-be4de4156781.jpg" width="20%">
+<img src="https://user-images.githubusercontent.com/80918411/131356220-386f1622-b106-4782-91ef-40271d022f94.jpg" width="20%">
+<img src="https://user-images.githubusercontent.com/80918411/131356223-e1b3736a-1355-4045-86f1-8215100d9664.jpg" width="20%">
+<img src="https://user-images.githubusercontent.com/80918411/131356228-5c1d1b67-2250-4696-b663-d9f48ecba5de.jpg" width="20%">
 </p>
