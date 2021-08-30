@@ -84,7 +84,7 @@ MyPharmacy is an application that helps pharmacies managing their branches and e
 <img src="https://user-images.githubusercontent.com/80918411/131258947-f0344922-6e04-400c-bc86-fdaeeda689bc.jpg" width="20%">
 </p>
 
-### Customers Informations:
+### Customers Informations :
 <p float="left">                                                                                        
 <img src="https://user-images.githubusercontent.com/80918411/131259731-5fb90c1f-4624-40b7-909a-40b112ee2245.jpg" width="20%">
 <img src="https://user-images.githubusercontent.com/80918411/131259737-ffef649d-f7dc-4987-8a0e-62e15f864f59.jpg" width="20%">
@@ -92,7 +92,7 @@ MyPharmacy is an application that helps pharmacies managing their branches and e
 <img src="https://user-images.githubusercontent.com/80918411/131259743-f69f9ad7-d634-4f93-bf7f-9fa4f00dd396.jpg" width="20%">
 </p>
 
-### Employee Information
+### Employee Information :
 1. You can add a new employee and assign him/her to a branch and give him/her the premission you want
 2. You can swipe right to edit the employee information of swipe left to deactivate the employee
 3. You can filter the pharmacy employees
@@ -103,4 +103,16 @@ MyPharmacy is an application that helps pharmacies managing their branches and e
 <img src="https://user-images.githubusercontent.com/80918411/131296086-59cb07aa-8fe2-4ef0-a9b5-1d7ba83f96b1.jpg" width="20%">
 <img src="https://user-images.githubusercontent.com/80918411/131296092-b6304bcd-39e2-40a7-9c87-46da0685d28e.jpg" width="20%">
 <img src="https://user-images.githubusercontent.com/80918411/131296095-cb92547f-f7f0-4329-9578-f807de35929a.jpg" width="20%">
+</p>
+
+### Branches Information :
+1. You can see all the branches and filter them
+2. You can add a new branch 
+3. You can swipe right to edit the branch information or swipe left to deactivate it
+4. Click on a branch to see its information and its receipts
+5. Filter receipts by setting a date range
+<p float="left">                                                                                        
+<img src="https://user-images.githubusercontent.com/80918411/131314033-bb4978fe-b8a6-4278-8575-eb394abed35c.jpg" width="20%">
+<img src="https://user-images.githubusercontent.com/80918411/131314038-7df96c55-4e8e-42d7-a9bd-742239e6412d.jpg" width="20%">
+<img src="https://user-images.githubusercontent.com/80918411/131314030-ed663b98-e3f7-44b5-b320-8a61d7eb0c22.jpg" width="20%">
 </p>
