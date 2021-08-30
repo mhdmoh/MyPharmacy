@@ -53,6 +53,9 @@ MyPharmacy is an application that helps pharmacies managing their branches and e
 </p>
 	
 ### Inventory 
+1. you can swipe on a product to the right to edit its main information or to the left to delete it
+2. you can click on a product to see a dialog showing the product information
+3. you can filter your inventory by a huge amount of variables
 <p float="left">                                                                                        
 <img src="https://user-images.githubusercontent.com/80918411/131258820-7802a52f-87a9-49ac-a99b-c4fd3f8950f2.gif" width="25%">
 <img src="https://user-images.githubusercontent.com/80918411/131258736-e41f4ecb-a9fd-41f7-90eb-c7f2a728efb1.jpg" width="25%">
@@ -60,12 +63,21 @@ MyPharmacy is an application that helps pharmacies managing their branches and e
 
 ### Sales
 #### Adding products to the cart
+1. you can add any amount of items to the selected list 
+2. if a product is expired you will not be able to add it
+3. you will get a notification if the quantity of a product is less than the entered lowest amountto remind you to buyit again
+4. a pdf receipt will generate after each sale and it will have a unique barcode 
+5. you can scan any receipt barcode to regenerate the receipt immediately
 <p float="left">                                                                                        
 <img src="https://user-images.githubusercontent.com/80918411/131258926-fad9af3d-6b06-4adf-8b5c-2fbd3935c633.jpg" width="25%">
 <img src="https://user-images.githubusercontent.com/80918411/131258925-5c891e8f-6771-49cf-8257-ebf685fc4495.jpg" width="25%">
+<img src="https://user-images.githubusercontent.com/80918411/131289339-b9d8c366-5919-46c8-95d1-2d8218dbe5a2.png" width="25%">
+<img src="https://user-images.githubusercontent.com/80918411/131289324-abee7a34-f358-4a30-aba6-2ddaf5fd8742.jpg" width="25%">
 </p>
 
 #### Setting the customer or adding a new one
+1. when selling the products you can either assign the receipt to an existing customer or create a new one 
+2. the customer can pay the entire amount or pay some of it and continue paying later
 <p float="left">                                                                                        
 <img src="https://user-images.githubusercontent.com/80918411/131258949-b76f6603-5e0f-44f2-89c9-982f190a9bb7.jpg" width="25%">
 <img src="https://user-images.githubusercontent.com/80918411/131258950-786c80b0-78ba-4436-b6b0-ead337a9d238.jpg" width="25%">
