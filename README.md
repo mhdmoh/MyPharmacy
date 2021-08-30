@@ -69,10 +69,10 @@ MyPharmacy is an application that helps pharmacies managing their branches and e
 4. a pdf receipt will generate after each sale and it will have a unique barcode 
 5. you can scan any receipt barcode to regenerate the receipt immediately
 <p float="left">                                                                                        
-<img src="https://user-images.githubusercontent.com/80918411/131258926-fad9af3d-6b06-4adf-8b5c-2fbd3935c633.jpg" width="25%">
-<img src="https://user-images.githubusercontent.com/80918411/131258925-5c891e8f-6771-49cf-8257-ebf685fc4495.jpg" width="25%">
-<img src="https://user-images.githubusercontent.com/80918411/131289339-b9d8c366-5919-46c8-95d1-2d8218dbe5a2.png" width="25%">
-<img src="https://user-images.githubusercontent.com/80918411/131289324-abee7a34-f358-4a30-aba6-2ddaf5fd8742.jpg" width="25%">
+<img src="https://user-images.githubusercontent.com/80918411/131258926-fad9af3d-6b06-4adf-8b5c-2fbd3935c633.jpg" width="20%">
+<img src="https://user-images.githubusercontent.com/80918411/131258925-5c891e8f-6771-49cf-8257-ebf685fc4495.jpg" width="20%">
+<img src="https://user-images.githubusercontent.com/80918411/131289339-b9d8c366-5919-46c8-95d1-2d8218dbe5a2.png" width="20%">
+<img src="https://user-images.githubusercontent.com/80918411/131289324-abee7a34-f358-4a30-aba6-2ddaf5fd8742.jpg" width="20%">
 </p>
 
 #### Setting the customer or adding a new one
