@@ -76,6 +76,15 @@ MyPharmacy is an application that helps pharmacies managing their branches and e
 <img src="https://user-images.githubusercontent.com/80918411/131289324-abee7a34-f358-4a30-aba6-2ddaf5fd8742.jpg" width="20%">
 </p>
 
+#### Returning products :
+1. You can scan a receipt to return some of its products
+2. You can see the return information along with the old products and what you returned from them
+<p float="left">                                                                                        
+<img src="https://user-images.githubusercontent.com/80918411/131356814-613ef6bb-7a5c-4e8c-80ff-ae15df80bf3e.jpg" width="20%">
+<img src="https://user-images.githubusercontent.com/80918411/131356818-b52a557f-a9fd-4484-af40-f528271ae5c3.jpg" width="20%">
+</p>
+
+
 #### Setting the customer or adding a new one
 1. when selling the products you can either assign the receipt to an existing customer or create a new one 
 2. the customer can pay the entire amount or pay some of it and continue paying later
