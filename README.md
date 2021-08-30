@@ -98,7 +98,7 @@ MyPharmacy is an application that helps pharmacies managing their branches and e
 3. You can filter the pharmacy employees
 4. Click on an employee to see his/her information and the receipts they did
 <p float="left">                                                                                        
-<img src="https://user-images.githubusercontent.com/80918411/131296103-a2bc1fd9-95f2-475d-8341-9e67d6a726ae.jpg" width="20%">
+<img src="https://user-images.githubusercontent.com/80918411/131299465-88b09d51-4be2-48da-9018-1ad4e12167cd.jpg" width="20%">
 <img src="https://user-images.githubusercontent.com/80918411/131296082-f8c93065-8200-4e25-a681-57d3353937c7.jpg" width="20%">
 <img src="https://user-images.githubusercontent.com/80918411/131296086-59cb07aa-8fe2-4ef0-a9b5-1d7ba83f96b1.jpg" width="20%">
 <img src="https://user-images.githubusercontent.com/80918411/131296092-b6304bcd-39e2-40a7-9c87-46da0685d28e.jpg" width="20%">
